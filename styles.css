@@ -1,97 +1,88 @@
-/* Estilos para a barra de navegação */
 .custom-navbar {
-  background-color: #f1f4f7; /* Cor de fundo da barra de navegação */
+  background-color: #f1f4f7; 
 }
 
 .custom-navbar .navbar-brand {
-  font-size: 25px; /* Tamanho da fonte do logotipo */
+  font-size: 25px; 
 }
 
 .custom-navbar .navbar-nav .nav-link {
-  color: #0c0c0c; /* Cor dos links da barra de navegação */
-  margin-right: 20px; /* Espaçamento entre os links */
-  font-size: 20px; /* Tamanho da fonte dos links */
+  color: #0c0c0c; 
+  margin-right: 20px; 
+  font-size: 20px; 
 }
 
-/* Estilos para a seção do herói */
-#hero-section {
-  background-image: url("./Images/Imagem0.jpg");
-  background-size: cover;
-  color: #fff; /* Cor do texto */
-  padding: 50px 0;
-  text-align: center;
-}
 
 #hero-section h1 {
-  font-size: 36px; /* Tamanho da fonte do título */
+  font-size: 36px; 
 }
 
 #hero-section p {
-  font-size: 18px; /* Tamanho da fonte do texto */
+  font-size: 18px; 
 }
 
-/* Estilos para a seção de trabalho */
+
 #work-section {
-  background-color: #f2f4f7; /* Cor de fundo da seção */
+  background-color: #f2f4f7; 
   padding: 80px 0;
 }
 
 #work-section h2 {
-  font-size: 32px; /* Tamanho da fonte do título */
+  font-size: 32px; 
 }
 
 .card {
-  border: none; /* Remova a borda dos cartões */
+  border: none; 
 }
 
 .card-title {
-  font-size: 24px; /* Tamanho da fonte do título do cartão */
+  font-size: 24px; 
 }
 
 .card-text {
-  font-size: 16px; /* Tamanho da fonte do texto do cartão */
+  font-size: 16px; /
 }
 
-/* Estilos para a seção de habilidades */
+
 #skills-section {
   padding: 60px 0;
 }
 
 #skills-section h2 {
-  font-size: 32px; /* Tamanho da fonte do título */
+  font-size: 32px; 
 }
 
 .list-group-item {
-  font-size: 18px; /* Tamanho da fonte dos itens da lista */
+  font-size: 18px; 
 }
 
-/* Estilos para a seção "About/Contact" */
+
 #about-section {
   padding: 60px 0;
 }
 
 #about-section h2 {
-  font-size: 32px; /* Tamanho da fonte do título */
+  font-size: 32px; 
 }
 
 #about-section p {
-  font-size: 18px; /* Tamanho da fonte do texto */
+  font-size: 18px; 
 }
 
-/* Estilos para o rodapé */
+
 footer {
-  background-color: #7480f0; /* Cor de fundo do rodapé */
-  color: #0c0844; /* Cor do texto do rodapé */
+  background-color: #7480f0; 
+  color: #0c0844; 
   padding: 20px 0;
   text-align: center;
 }
-/* Estilos personalizados */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #a6c1db;
 }
 
-/* Estilos para os containers */
+
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -134,29 +125,29 @@ body {
   background-color: #0056b3;
 }
 
-/* Estilos para a seção do herói */
+
 .custom-hero {
   background-image: url("./Images/Imagem0.jpg");
   background-size: cover;
   color: #fff;
   padding: 60px 0;
-  text-align: center; /* Centraliza horizontalmente o texto */
+  text-align: center; 
 }
 
 .custom-profile-pic {
   max-width: 120px;
   height: auto;
-  border-radius: 100%; /* Torna a imagem redonda */
-  border: 5px solid #fff; /* Adiciona uma borda branca */
-  margin: 0 auto; /* Centraliza horizontalmente a imagem */
-  display: block; /* Remove margem superior automática da imagem */
+  border-radius: 100%; 
+  border: 5px solid #fff; 
+  margin: 0 auto; 
+  display: block; 
 }
 
 .custom-list {
-  text-align: left; /* Alinha a lista à esquerda */
+  text-align: left; /
 }
 
-/* Estilos personalizados */
+
 .skills-wrapper {
   display: flex;
   justify-content: center;
@@ -166,7 +157,7 @@ body {
 
 .skills-column {
   text-align: center;
-  margin: 0 10px; /* Espaçamento entre as colunas de habilidades */
+  margin: 0 10px; 
 }
 
 .custom-list {
