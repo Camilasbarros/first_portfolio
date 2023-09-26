@@ -7,10 +7,10 @@
 - [Overview](#Overview)
 - [Technologies](#Technologies)
 - [Installation](#Installation)
-- [Resources](#Resources and Functionality)
+- [Resources](#Resources)
 - [License](#license)
-- [Link to GitHub](#GitHub)
-- [Link to your deployed application](#deployed)
+- [GitHub](#GitHub)
+- [Deployed](#Deployed)
 
 ## Description
 
@@ -20,10 +20,10 @@ This is my portfolio project, developed using only HTML and CSS. The purpose of 
 
 Before delving into the details of my projects, you can have a visual preview of my portfolio through the screenshots below:
 
-![Screenshot 1](./images/screen1.png)
-![Screenshot 2](./images/screen2.png)
-![Screenshot 3](./images/screen3.png)
-![Screenshot 4](./images/screen4.png)
+![Screenshot 1](./Images/screen1.png)
+![Screenshot 2](./Images/screen2.png)
+![Screenshot 3](./Images/screen3.png)
+![Screenshot 4](./Images/screen4.png)
 
 ## Overview
 
@@ -51,7 +51,7 @@ My name is Camila, and I am a frontend student and UX/UI designer. I have a pass
 Clone the repository using the following link: `git@github.com:Camilasbarros/first_portfolio.git`
 Open in your browser
 
-## Resources and Functionality:
+## Resources:
 
 The main resources and functionality of my portfolio include:
 
@@ -80,10 +80,10 @@ Author
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Link to GitHub
+## GitHub
 
 [Link to your GitHub repository](git@github.com:Camilasbarros/first_portfolio.git)
 
-## Link to Deployed Application
+## Deployed
 
 [Link to your deployed application](https://camilasbarros.github.io/first_portfolio/)
