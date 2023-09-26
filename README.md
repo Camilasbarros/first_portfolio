@@ -82,8 +82,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## GitHub
 
-[Link to your GitHub repository](git@github.com:Camilasbarros/first_portfolio.git)
+[Link to GitHub repository](git@github.com:Camilasbarros/first_portfolio.git)
 
 ## Deployed
 
-[Link to your deployed application](https://camilasbarros.github.io/first_portfolio/)
+[Link to deployed application](https://camilasbarros.github.io/first_portfolio/)
